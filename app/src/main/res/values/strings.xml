@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login and Registration form</string>
+    <string name="textview">TextView</string>
+    <string name="facebook">Facebook</string>
+</resources>
